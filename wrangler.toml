@@ -10,6 +10,6 @@ GITHUB_ID = "Ov23li2CTsXA5Zce0SqE"
 GITHUB_OWNER = "zztap"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere-8go.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-8go.pages.dev/"
+NEXTAUTH_URL = "https://dh.iizc.de/api/auth"
+NEXT_PUBLIC_API_URL="https://dh.iizc.de/"
 

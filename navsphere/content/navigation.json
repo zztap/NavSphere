@@ -78,16 +78,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "ceda97e3-3c26-4724-977c-329a630bd105",
-          "title": "常用论坛",
-          "icon": "LayoutList",
-          "description": "技术类、教程类及vps特价",
-          "enabled": true,
-          "items": []
-        }
-      ],
+      "subCategories": [],
       "description": "",
       "enabled": true
     },

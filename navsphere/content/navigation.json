@@ -85,7 +85,16 @@
           "icon": "LayoutList",
           "description": "技术类、教程类及vps特价",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753863737811",
+              "title": "nodeseek",
+              "href": "https://www.nodeseek.com/",
+              "description": "mjj论坛",
+              "icon": "/assets/img_1753863883184.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
